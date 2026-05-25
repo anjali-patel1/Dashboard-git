@@ -192,6 +192,4 @@ GitHub Actions workflows are included:
 
 ---
 
-## License
 
-Design and code by [CodedThemes](https://www.codedthemes.com). Licensed under MIT. Distributed by [ThemeWagon](https://themewagon.com).
